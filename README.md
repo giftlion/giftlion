@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Engineer at IDF with a passion for learning and solving complex problems. <br>I thrive on challenges, enjoy tackling riddles, and am always eager to expand my knowledge as much as possible. <br>Constantly exploring new technologies and methodologies to refine my craft<br>
+Software Engineer with a passion for learning and solving complex problems. <br>I thrive on challenges, enjoy tackling riddles, and am always eager to expand my knowledge as much as possible. <br>Constantly exploring new technologies and methodologies to refine my craft<br>
 
 
 ## 🌐 Socials:
